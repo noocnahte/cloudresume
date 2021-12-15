@@ -9,8 +9,8 @@ certificate from AWS certificate manager, I deployed my website over the CloudFr
 accesses the site.
 
 Before this project, I had zero experience using Cloud services and had always wondered what people were even talking about when they talked about it. Now I feel far more 
-comfortable using the services, though I still consider myself very much a beginner. I think that more than anything else, this project opened my eyes to the possibilities of 
-cloud, and I will no longer feel intimidated if I am asked to use it later on in my career. However, I do think that one glaring problem with the Cloud is how dispersed the 
+comfortable using the services, though I still consider myself a beginner. I think that more than anything else, this project opened my eyes to the possibilities of cloud, 
+and I will no longer feel intimidated if I am asked to use it later on in my career. However, I do think that one glaring problem with the Cloud is how dispersed the 
 services are- as a beginner, looking at the hundreds of Cloud services offered by Amazon is very overwhelming and I don't know where to start. If some of these services were 
 consolidated, I think it would make them much more accessible to all. Nonetheless, the Cloud is a valuable resource for individuals and businesses and has nearly endless 
 potential. By shifting the costs of setting up and securing physical hardware to large companies like Amazon and Microsoft, people have more access than ever to powerful tools 
